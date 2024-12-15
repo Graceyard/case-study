@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+Ecommerce Order Dataset/df_Customers.csv
+Ecommerce Order Dataset/df_OrderItems.csv
+Ecommerce Order Dataset/df_Orders.csv
+Ecommerce Order Dataset/df_Payments.csv
+Ecommerce Order Dataset/df_Products.csv
